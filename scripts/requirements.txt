@@ -1,0 +1,13 @@
+numpy>=2.0.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipykernel>=6.25.0
+nest_asyncio
+python_dotenv
+trafilatura
+pydantic_settings
+litellm
+loguru
+ddgs[api]
